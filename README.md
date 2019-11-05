@@ -1,4 +1,4 @@
-# Personal Static site using Flask
+# Personal static site using Flask
 
 First code using Flask, Frozen-Flask and Netlify.
 
